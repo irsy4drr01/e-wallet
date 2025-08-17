@@ -1,4 +1,4 @@
-# 💳 E-Wallet
+# 💳 E-Wallet App
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
@@ -27,7 +27,20 @@ It enables users to manage their digital transactions, track history, and perfor
 - Wallet balance management  
 - Transaction creation and history tracking  
 - Secure REST API endpoints  
-- Responsive front-end design  
+- Responsive front-end design
+
+## 👥 Team
+
+**Project Leader**  
+- [Ramadhan Rangkuti](https://github.com/RamadanRangkuti)
+
+**Members**
+- [Khalif G](https://github.com/khalifgfrz)
+- [Ariel Irmawan](https://github.com/IrmawanAriel)  
+- [Irsyad Ridho Romadhon](https://github.com/irsy4drr01)
+- [Gilang Arya P](https://github.com/gilangaryap)  
+- [Fauzi D.R.](https://github.com/mfauzidr)
+- [Putu Pridanta](https://github.com/putupridanta)
 
 ---
 
